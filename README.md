@@ -1,4 +1,6 @@
-# HowtoLearnHyperMesh
+知乎链接：https://zhuanlan.zhihu.com/p/36225426
+* * *
+# 以下链接已经失效，请查看上述知乎链接
 HyperMesh和OptiStruct学习经验
 
 首先放一个 Altair China 的官方百度云盘：https://pan.baidu.com/s/1c7SLg6#list/path=%2F&parentPath=%2F
